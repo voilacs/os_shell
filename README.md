@@ -2,7 +2,7 @@
 Git repository with all files required for assignment 2 of os course CSE231
 https://github.com/voilacs/os_shell
 A.)
-Another example could be a command that uses advanced shell scripting constructs like arrays, associative arrays, or specific syntax that is unique to certain shells. For instance:
+An example could be a command that uses advanced shell scripting constructs like arrays, associative arrays, or specific syntax that is unique to certain shells. For instance:
     array=("nikks", "viboots","cha")
     echo "${array[1]}"
 
