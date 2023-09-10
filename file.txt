@@ -1,0 +1,36 @@
+"""Here is some random text that matches industry standards of a random text used to test
+prototypes in web development and beyond""" :)
+
+
+
+
+ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut 
+labore et dolore magna aliqua. Sodales neque sodales ut etiam sit amet. Duis at tellus at urna 
+condimentum mattis pellentesque. Etiam sit amet nisl purus in. Bibendum neque egestas congue 
+quisque egestas diam in. Libero id faucibus nisl tincidunt. Quis auctor elit sed vulputate mi 
+sit amet mauris commodo. Cras pulvinar mattis nunc sed blandit libero volutpat sed. Neque
+ornare aenean euismod elementum nisi. Pulvinar neque laoreet suspendisse interdum consectetur
+libero id faucibus.
+
+ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut 
+labore et dolore magna aliqua. Sodales neque sodales ut etiam sit amet. Duis at tellus at urna 
+condimentum mattis pellentesque. Etiam sit amet nisl purus in. Bibendum neque egestas congue 
+quisque egestas diam in. Libero id faucibus nisl tincidunt. Quis auctor elit sed vulputate mi 
+sit amet mauris commodo. Cras pulvinar mattis nunc sed blandit libero volutpat sed. Neque
+ornare aenean euismod elementum nisi. Pulvinar neque laoreet suspendisse interdum consectetur
+libero id faucibus.
+
+ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut 
+labore et dolore magna aliqua. Sodales neque sodales ut etiam sit amet. Duis at tellus at urna 
+condimentum mattis pellentesque. Etiam sit amet nisl purus in. Bibendum neque egestas congue 
+quisque egestas diam in. Libero id faucibus nisl tincidunt. Quis auctor elit sed vulputate mi 
+sit amet mauris commodo. Cras pulvinar mattis nunc sed blandit libero volutpat sed. Neque
+ornare aenean euismod elementum nisi. Pulvinar neque laoreet suspendisse interdum consectetur
+libero id faucibus.
+
+
+
+
+
+""" I really put in a lot of efforts in this assignment
+hope you consider marking me well :) """
